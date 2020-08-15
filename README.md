@@ -1,7 +1,6 @@
 <img align="right" width="350" src="https://github.com/ivanjonatas/ivanjonatas/blob/master/imagens/logo.svg">
 
-## Ivan Jonatas
-### Admirador e praticante da cultuta DevOps
+## Admirador e praticante da cultuta DevOps
 
 ### Sobre mim
 - :earth_americas: Bayeux - Paraíba
