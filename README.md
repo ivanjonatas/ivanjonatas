@@ -1,4 +1,5 @@
 <img align="right" width="350" src="https://github.com/ivanjonatas/ivanjonatas/blob/master/imagens/logo.svg">
+
 ## Ivan Jonatas
 
 ### Admirador e praticante da cultuta DevOps
@@ -29,7 +30,7 @@
 
 ---
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ivanjonatas&show_icons=true&theme=dracula)](https://github.com/ivanjonatas/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ivanjonatas&show_icons=true&theme=vue-dark)](https://github.com/ivanjonatas/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanjonatas)](https://github.com/ivanjonatas/github-readme-stats)
 <!-- 
