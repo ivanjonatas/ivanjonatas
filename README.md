@@ -1,4 +1,4 @@
-<img align="right" width="350" src="https://github.com/murilio/murilio/blob/master/images/sistema.jpg">
+<img align="right" width="350" src="https://github.com/ivanjonatas/ivanjonatas/blob/master/imagens/sistema.jpg">
 ## Ivan Jonatas
 
 ### Admirador e praticante da cultuta DevOps
