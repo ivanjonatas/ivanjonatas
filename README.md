@@ -8,7 +8,6 @@
 
 - :earth_americas: João Pessoa - Paraíba
 - 🌱 Sempre querendo aprender algo novo 🤣
-- 🥅 em 2021 contribuir com um projetos Open Source
 - :dart: Muito foco
 - :coffee: Muito café
 ### Onde me encontratar:
