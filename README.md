@@ -43,7 +43,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ivanjonatas)](https://github.com/ivanjonatas/github-readme-stats)
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ivanjonatas&show_icons=true&theme=Gradient)](https://github.com/ivanjonatas/github-readme-stats)
 
   <!-- <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" /> -->
 
