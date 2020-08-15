@@ -29,9 +29,10 @@
 
 ---
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanjonatas)](https://github.com/ivanjonatas/github-readme-stats)
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ivanjonatas&show_icons=true&theme=vue-dark)](https://github.com/ivanjonatas/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanjonatas)](https://github.com/ivanjonatas/github-readme-stats)
 <!-- 
   percentual por tecnologia
  -->
