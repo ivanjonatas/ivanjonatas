@@ -2,10 +2,6 @@
 
 ### Admirador e praticante da cultuta DevOps
 
-- 🔭 I’m currently working on a [VS Code Course][website]!
-- 👯 I’m looking to collaborate with other content creators
-- ⚡ Fun fact: I love to draw and play guitar / drums
-
 - :earth_americas: João Pessoa - Paraíba
 - 🌱 Sempre querendo aprender algo novo 🤣
 - :dart: Muito foco
