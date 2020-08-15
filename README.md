@@ -43,12 +43,14 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ivanjonatas)](https://github.com/ivanjonatas/github-readme-stats)
+
+  <!-- <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" /> -->
 
 </details>
 
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
+[youtube]: https://www.youtube.com/channel/UCfWNBu2eAbCkFP0QYpDIjmg/?guided_help_flow=5
+[instagram]: https://www.instagram.com/ivan.jonatas/
 [linkedin]: https://www.linkedin.com/in/ivan-jonatas-b97a72119
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
