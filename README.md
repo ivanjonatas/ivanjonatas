@@ -53,13 +53,6 @@
 ---
 </details>
 
-<details>
-  <summary>:zap: Github Stats</summary>
-
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanjonatas)](https://github.com/ivanjonatas/github-readme-stats)
-
-</details>
-
 [youtube]: https://www.youtube.com/channel/UCfWNBu2eAbCkFP0QYpDIjmg/?guided_help_flow=5
 [instagram]: https://www.instagram.com/ivan.jonatas/
 [linkedin]: https://www.linkedin.com/in/ivan-jonatas-b97a72119
