@@ -25,6 +25,10 @@
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
+<br />
+
+---
+<br />
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ivanjonatas&show_icons=true&layout=defaul)](https://github.com/ivanjonatas/github-readme-stats)
 
@@ -43,9 +47,9 @@
   java
   maven  
  -->
-
+<!-- 
 <br />
-<br />
+<br /> -->
 
 ---
 <!-- <details>
@@ -57,8 +61,8 @@
 
   <!-- <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" /> -->
 
----
-</details> -->
+<!-- ---
+</details> --> -->
 
 [youtube]: https://www.youtube.com/channel/UCfWNBu2eAbCkFP0QYpDIjmg/?guided_help_flow=5
 [instagram]: https://www.instagram.com/ivan.jonatas/
