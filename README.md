@@ -1,4 +1,4 @@
-<img align="right" width="350" src="https://github.com/murilio/murilio/blob/master/images/undraw_pitching_36ol.svg">
+<img align="right" width="350" src="https://github.com/murilio/murilio/blob/master/images/sistema.jpg">
 ## Ivan Jonatas
 
 ### Admirador e praticante da cultuta DevOps
@@ -29,7 +29,7 @@
 
 ---
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ivanjonatas&show_icons=true&layout=defaul)](https://github.com/ivanjonatas/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ivanjonatas&show_icons=true&theme=radical)](https://github.com/ivanjonatas/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanjonatas)](https://github.com/ivanjonatas/github-readme-stats)
 <!-- 
