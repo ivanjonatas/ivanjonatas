@@ -24,7 +24,7 @@
 
 [<img align="left" alt="HTML5" width="60px" src="https://www.ibm.com/blogs/cloud-computing/wp-content/uploads/2014/04/docker-logo-open-cloud.png" />][webdevplaylist]
 
-[<img align="left" alt="HTML5" width="90px" src="https://miro.medium.com/max/730/0*0xAFVp2oiGROzPiX" />][webdevplaylist]
+[<img align="left" alt="HTML5" width="100px" src="https://miro.medium.com/max/730/0*0xAFVp2oiGROzPiX" />][webdevplaylist]
 
 [<img align="left" alt="HTML5" width="60px" src="https://t1.daumcdn.net/cfile/tistory/99DDB3495C5301B030" />][webdevplaylist]
 
