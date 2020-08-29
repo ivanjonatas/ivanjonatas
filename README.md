@@ -20,11 +20,11 @@
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://dwglogo.com/wp-content/uploads/2017/11/1500px_Jenkins_logo.png" />][webdevplaylist]
 
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
+[<img align="left" alt="HTML5" width="26px" src="https://github.com/ivanjonatas/ivanjonatas/tree/master/imagens/aws.png" />][webdevplaylist]
+[<img align="left" alt="HTML5" width="26px" src="https://github.com/ivanjonatas/ivanjonatas/tree/master/imagens/cigitlab.png" />][webdevplaylist]
+[<img align="left" alt="HTML5" width="26px" src="https://github.com/ivanjonatas/ivanjonatas/tree/master/imagens/docker.png" />][webdevplaylist]
+[<img align="left" alt="HTML5" width="26px" src="https://github.com/ivanjonatas/ivanjonatas/tree/master/imagens/jenkins.jpeg" />][webdevplaylist]
+[<img align="left" alt="HTML5" width="26px" src="https://github.com/ivanjonatas/ivanjonatas/tree/master/imagens/devOps.png" />][webdevplaylist]
 <br />
 
 ---
@@ -64,7 +64,7 @@
 <!-- ---
 </details> --> 
 
-[youtube]: https://www.youtube.com/channel/UCfWNBu2eAbCkFP0QYpDIjmg/?guided_help_flow=5
+[youtube]: https://www.youtube.com/channel/UCfWNBu2eAbCkFP0QYpDIjmg
 [instagram]: https://www.instagram.com/ivan.jonatas/
 [linkedin]: https://www.linkedin.com/in/ivan-jonatas-b97a72119
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
