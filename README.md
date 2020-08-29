@@ -18,9 +18,9 @@
 
 ### Linguagens e ferramentas:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://dwglogo.com/wp-content/uploads/2017/11/1500px_Jenkins_logo.png" />][webdevplaylist]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://miro.medium.com/max/800/1*LOFbTP2SxXcFpM_qTsUSuw.png" />][webdevplaylist]
 
-[<img align="left" alt="HTML5" width="26px" src="imagens/aws.png" />][webdevplaylist]
+[<img align="left" alt="HTML5" width="26px" src="https://miro.medium.com/max/4010/1*j9hbjszo0zXS32yhvSkdAQ.jpeg" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="26px" src="imagens/cigitlab.png" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="26px" src="imagens/docker.png" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="26px" src="imagens/jenkins.jpeg" />][webdevplaylist]
