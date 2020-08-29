@@ -18,19 +18,21 @@
 
 ### Linguagens e ferramentas:
 
-[<img align="left" alt="Visual Studio Code" width="60px" src="https://miro.medium.com/max/800/1*LOFbTP2SxXcFpM_qTsUSuw.png" />][webdevplaylist]
+[<img align="left" alt="Visual Studio Code" width="60px" src="https://miro.medium.com/max/800/1*LOFbTP2SxXcFpM_qTsUSuw.png" />][jenkins]
 
-[<img align="left" alt="HTML5" width="60px" src="https://www.dev7.com.br/images/tecnologias/gitlab.png" />][webdevplaylist]
+[<img align="left" alt="HTML5" width="60px" src="https://www.dev7.com.br/images/tecnologias/gitlab.png" />][gitlab]
 
-[<img align="left" alt="HTML5" width="60px" src="https://blog.geekhunter.com.br/wp-content/uploads/2019/06/docker-na-pratica-como-construir-uma-aplicacao-2.png" />][webdevplaylist]
+[<img align="left" alt="HTML5" width="60px" src="https://www.ibm.com/blogs/cloud-computing/wp-content/uploads/2014/04/docker-logo-open-cloud.png" />][docker]
 
-[<img align="left" alt="HTML5" width="60px" src="https://miro.medium.com/max/730/0*0xAFVp2oiGROzPiX" />][webdevplaylist]
+[<img align="left" alt="HTML5" width="70px" src="https://miro.medium.com/max/730/0*0xAFVp2oiGROzPiX" />][kubernetes]
 
-[<img align="left" alt="HTML5" width="60px" src="https://t1.daumcdn.net/cfile/tistory/99DDB3495C5301B030" />][webdevplaylist]
+[<img align="left" alt="HTML5" width="60px" src="https://t1.daumcdn.net/cfile/tistory/99DDB3495C5301B030" />][elk]
 
-[<img align="left" alt="HTML5" width="60px" src="https://lh3.googleusercontent.com/proxy/9SO2M_jB7ucltvsfJsL7V9pHCwZCPZDImUCuilAFlNWXoNdy5Ju7dr2vK91xqTOCXF-Ix8UdkABHKS1pgtmoCKs4qGeqCL6nnvwPrz9Hoq4SmYjcreLkVzIaw6dm" />][webdevplaylist]
+[<img align="left" alt="HTML5" width="60px" src="https://lh3.googleusercontent.com/proxy/9SO2M_jB7ucltvsfJsL7V9pHCwZCPZDImUCuilAFlNWXoNdy5Ju7dr2vK91xqTOCXF-Ix8UdkABHKS1pgtmoCKs4qGeqCL6nnvwPrz9Hoq4SmYjcreLkVzIaw6dm" />][maven]
 
-[<img align="left" alt="HTML5" width="60px" src="https://miro.medium.com/max/1024/1*jkOCjQlkGZjbhWdvh7LfRA.png" />][webdevplaylist]
+[<img align="left" alt="HTML5" width="60px" src="https://miro.medium.com/max/1024/1*jkOCjQlkGZjbhWdvh7LfRA.png" />][java]
+
+<br />
 <br />
 
 ---
