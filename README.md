@@ -18,13 +18,13 @@
 
 ### Linguagens e ferramentas:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://miro.medium.com/max/800/1*LOFbTP2SxXcFpM_qTsUSuw.png" />][webdevplaylist]
+[<img align="left" alt="Visual Studio Code" width="60px" src="https://miro.medium.com/max/800/1*LOFbTP2SxXcFpM_qTsUSuw.png" />][webdevplaylist]
 
-[<img align="left" alt="HTML5" width="50px" src="https://www.dev7.com.br/images/tecnologias/gitlab.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="imagens/cigitlab.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="imagens/docker.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="imagens/jenkins.jpeg" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="imagens/devOps.png" />][webdevplaylist]
+[<img align="left" alt="HTML5" width="60px" src="https://www.dev7.com.br/images/tecnologias/gitlab.png" />][webdevplaylist]
+[<img align="left" alt="HTML5" width="60px" src="imagens/cigitlab.png" />][webdevplaylist]
+[<img align="left" alt="HTML5" width="60px" src="imagens/docker.png" />][webdevplaylist]
+[<img align="left" alt="HTML5" width="60px" src="imagens/jenkins.jpeg" />][webdevplaylist]
+[<img align="left" alt="HTML5" width="60px" src="imagens/devOps.png" />][webdevplaylist]
 <br />
 
 ---
