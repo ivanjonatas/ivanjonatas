@@ -26,7 +26,7 @@
 
 [<img align="left" alt="HTML5" width="100px" src="https://miro.medium.com/max/730/0*0xAFVp2oiGROzPiX" />][k8s]
 
-[<img align="left" alt="HTML5" width="100px" src="https://shoppingspirit.pt/wp-content/uploads/2020/04/amazon-web-services.jpg" />][aws]
+[<img align="left" alt="HTML5" width="100px" src="https://cdn2.downdetector.com/static/uploads/logo/aws-logo-icon-PNG-Transparent-Background_3.png" />][aws]
 
 
 
