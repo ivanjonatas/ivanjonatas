@@ -20,17 +20,21 @@
 
 [<img align="left" alt="Visual Studio Code" width="60px" src="https://miro.medium.com/max/800/1*LOFbTP2SxXcFpM_qTsUSuw.png" />][jenkins]
 
-[<img align="left" alt="HTML5" width="60px" src="https://www.dev7.com.br/images/tecnologias/gitlab.png" />][webdevplaylist]
+[<img align="left" alt="HTML5" width="60px" src="https://www.dev7.com.br/images/tecnologias/gitlab.png" />][gitlab]
 
-[<img align="left" alt="HTML5" width="60px" src="https://www.ibm.com/blogs/cloud-computing/wp-content/uploads/2014/04/docker-logo-open-cloud.png" />][webdevplaylist]
+[<img align="left" alt="HTML5" width="60px" src="https://www.ibm.com/blogs/cloud-computing/wp-content/uploads/2014/04/docker-logo-open-cloud.png" />][docker]
 
-[<img align="left" alt="HTML5" width="100px" src="https://miro.medium.com/max/730/0*0xAFVp2oiGROzPiX" />][webdevplaylist]
+[<img align="left" alt="HTML5" width="100px" src="https://miro.medium.com/max/730/0*0xAFVp2oiGROzPiX" />][k8s]
 
-[<img align="left" alt="HTML5" width="60px" src="https://t1.daumcdn.net/cfile/tistory/99DDB3495C5301B030" />][webdevplaylist]
+[<img align="left" alt="HTML5" width="100px" src="https://shoppingspirit.pt/wp-content/uploads/2020/04/amazon-web-services.jpg" />][aws]
 
-[<img align="left" alt="HTML5" width="60px" src="https://lh3.googleusercontent.com/proxy/9SO2M_jB7ucltvsfJsL7V9pHCwZCPZDImUCuilAFlNWXoNdy5Ju7dr2vK91xqTOCXF-Ix8UdkABHKS1pgtmoCKs4qGeqCL6nnvwPrz9Hoq4SmYjcreLkVzIaw6dm" />][webdevplaylist]
 
-[<img align="left" alt="HTML5" width="90px" src="https://miro.medium.com/max/1024/1*jkOCjQlkGZjbhWdvh7LfRA.png" />][webdevplaylist]
+
+[<img align="left" alt="HTML5" width="60px" src="https://t1.daumcdn.net/cfile/tistory/99DDB3495C5301B030" />][elk]
+
+[<img align="left" alt="HTML5" width="60px" src="https://lh3.googleusercontent.com/proxy/9SO2M_jB7ucltvsfJsL7V9pHCwZCPZDImUCuilAFlNWXoNdy5Ju7dr2vK91xqTOCXF-Ix8UdkABHKS1pgtmoCKs4qGeqCL6nnvwPrz9Hoq4SmYjcreLkVzIaw6dm" />][maven]
+
+[<img align="left" alt="HTML5" width="90px" src="https://miro.medium.com/max/1024/1*jkOCjQlkGZjbhWdvh7LfRA.png" />][java]
 
 <br />
 <br />
@@ -75,15 +79,12 @@
 [youtube]: https://www.youtube.com/channel/UCfWNBu2eAbCkFP0QYpDIjmg
 [instagram]: https://www.instagram.com/ivan.jonatas/
 [linkedin]: https://www.linkedin.com/in/ivan-jonatas-b97a72119
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
-[jenkins]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
-[gitlab]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
-[docker]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
-[kubernetes]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
-[elk]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
-[maven]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
-[java]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[jenkins]: https://www.jenkins.io/doc/
+[gitlab]: https://docs.gitlab.com/
+[docker]: https://docs.docker.com/
+[k8s]: https://kubernetes.io/pt/docs/home/
+[elk]: https://www.elastic.co/guide/index.html
+[maven]: https://maven.apache.org/guides/index.html
+[java]: https://docs.oracle.com/en/java/
+[aws]: https://aws.amazon.com/pt/
 
