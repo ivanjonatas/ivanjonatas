@@ -26,7 +26,7 @@
 
 [<img align="left" alt="HTML5" width="100px" src="https://miro.medium.com/max/730/0*0xAFVp2oiGROzPiX" />][k8s]
 
-[<img align="left" alt="HTML5" width="100px" src="https://cdn2.downdetector.com/static/uploads/logo/aws-logo-icon-PNG-Transparent-Background_3.png" />][aws]
+[<img align="left" alt="HTML5" width="60px" src="https://cdn2.downdetector.com/static/uploads/logo/aws-logo-icon-PNG-Transparent-Background_3.png" />][aws]
 
 
 
