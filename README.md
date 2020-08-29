@@ -20,11 +20,11 @@
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://dwglogo.com/wp-content/uploads/2017/11/1500px_Jenkins_logo.png" />][webdevplaylist]
 
-[<img align="left" alt="HTML5" width="26px" src="https://github.com/ivanjonatas/ivanjonatas/tree/master/imagens/aws.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://github.com/ivanjonatas/ivanjonatas/tree/master/imagens/cigitlab.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://github.com/ivanjonatas/ivanjonatas/tree/master/imagens/docker.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://github.com/ivanjonatas/ivanjonatas/tree/master/imagens/jenkins.jpeg" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://github.com/ivanjonatas/ivanjonatas/tree/master/imagens/devOps.png" />][webdevplaylist]
+[<img align="left" alt="HTML5" width="26px" src="imagens/aws.png" />][webdevplaylist]
+[<img align="left" alt="HTML5" width="26px" src="imagens/cigitlab.png" />][webdevplaylist]
+[<img align="left" alt="HTML5" width="26px" src="imagens/docker.png" />][webdevplaylist]
+[<img align="left" alt="HTML5" width="26px" src="imagens/jenkins.jpeg" />][webdevplaylist]
+[<img align="left" alt="HTML5" width="26px" src="imagens/devOps.png" />][webdevplaylist]
 <br />
 
 ---
