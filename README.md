@@ -3,7 +3,7 @@
 ## Admirador e praticante da cultuta DevOps
 
 ### Sobre mim
-- :earth_americas: Bayeux - Paraíba
+- :earth_americas: João Pesso - Paraíba
 - 🌱 Sempre querendo aprender coisas novas 🤣
 - :dart: Muito foco
 - :coffee: Muito café
