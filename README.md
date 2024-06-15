@@ -29,8 +29,6 @@
 
 [<img align="left" alt="gitlab" width="60px" src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" />][gitlab]
 
-[<img align="left" alt="elk" width="60px" src="https://t1.daumcdn.net/cfile/tistory/99DDB3495C5301B030" />][elk]
-
 [<img align="left" alt="java" width="90px" src="https://miro.medium.com/max/1024/1*jkOCjQlkGZjbhWdvh7LfRA.png" />][java]
 
 [<img align="left" alt="python" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" />][java]
