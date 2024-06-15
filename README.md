@@ -19,11 +19,11 @@
 ### Linguagens e ferramentas:
 [<img align="left" alt="k8s" width="100px" src="https://miro.medium.com/max/730/0*0xAFVp2oiGROzPiX" />][k8s]
 
-[<img align="left" alt="aws" width="60px" src="https://cdn2.downdetector.com/static/uploads/logo/aws-logo-icon-PNG-Transparent-Background_3.png" />][aws]
+[<img align="left" alt="aws" width="60px" src="https://cdn2.downdetector.com/static/uploads/logo/aws-logo-icon-PNG-Transparent-Background_3.png" />][k8s]
 
-[<img align="left" alt="terraform" width="60px" src="https://static-00.iconduck.com/assets.00/file-type-terraform-icon-455x512-csyun60o.png" />][terraform]
+[<img align="left" alt="terraform" width="60px" src="https://static-00.iconduck.com/assets.00/file-type-terraform-icon-455x512-csyun60o.png" />][k8s]
 
-[<img align="left" alt="ansible" width="60px" src="https://e7.pngegg.com/pngimages/443/653/png-clipart-ansible-g2-technology-group-red-hat-organization-computer-software-magic-circle-miscellaneous-angle-thumbnail.png" />]
+[<img align="left" alt="ansible" width="60px" src="https://e7.pngegg.com/pngimages/443/653/png-clipart-ansible-g2-technology-group-red-hat-organization-computer-software-magic-circle-miscellaneous-angle-thumbnail.png" />][k8s]
 
 [<img align="left" alt="jenkins" width="60px" src="https://miro.medium.com/max/800/1*LOFbTP2SxXcFpM_qTsUSuw.png" />][jenkins]
 
