@@ -33,9 +33,9 @@
 
 [<img align="left" alt="java" width="90px" src="https://miro.medium.com/max/1024/1*jkOCjQlkGZjbhWdvh7LfRA.png" />][java]
 
-[<img align="left" alt="python" width="90px" src="https://banner2.cleanpng.com/20190623/yp/kisspng-python-computer-icons-programming-language-executa-5d0f0aa79779a6.6143656815612668556205.jpg" />][java]
+[<img align="left" alt="python" width="60px" src="https://banner2.cleanpng.com/20190623/yp/kisspng-python-computer-icons-programming-language-executa-5d0f0aa79779a6.6143656815612668556205.jpg" />][java]
 
-[<img align="left" alt="shell_script" width="90px" src="https://banner2.cleanpng.com/20180705/txh/kisspng-bash-shell-script-command-line-interface-z-shell-5b3df571eaf1a4.5375084915307871859623.jpg" />][java]
+[<img align="left" alt="shell_script" width="60px" src="https://banner2.cleanpng.com/20180705/txh/kisspng-bash-shell-script-command-line-interface-z-shell-5b3df571eaf1a4.5375084915307871859623.jpg" />][java]
 
 <br />
 <br />
