@@ -35,7 +35,7 @@
 
 [<img align="left" alt="python" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" />][java]
 
-[<img align="left" alt="shell_script" width="80px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2KKbij-vaM7uwKs7w7uRV3OGczoTnecAhpg&s" />][java]
+[<img align="left" alt="shell_script" width="70px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2KKbij-vaM7uwKs7w7uRV3OGczoTnecAhpg&s" />][java]
 
 <br />
 <br />
