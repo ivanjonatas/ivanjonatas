@@ -1,4 +1,4 @@
-<img align="right" width="350" src="https://github.com/ivanjonatas/ivanjonatas/blob/master/imagens/undraw_2.svg">
+<img align="right" width="350" src="https://github.com/ivanjonatas/ivanjonatas/blob/master/imagens/logo.svg">
 
 ## Admirador e praticante da cultuta DevOps
 
