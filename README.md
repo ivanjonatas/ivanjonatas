@@ -3,7 +3,7 @@
 ## Admirador e praticante da cultuta DevOps
 
 ### Sobre mim
-- :earth_americas: João Pessoa - Paraíba
+- :earth_americas: Lisbon - Portugal
 - 🌱 Sempre querendo aprender coisas novas 
 - :dart: Muito foco
 - :coffee: Muito café 🤣
@@ -17,22 +17,21 @@
 <br />
 
 ### Linguagens e ferramentas:
+[<img align="left" alt="k8s" width="100px" src="https://miro.medium.com/max/730/0*0xAFVp2oiGROzPiX" />][k8s]
 
-[<img align="left" alt="Visual Studio Code" width="60px" src="https://miro.medium.com/max/800/1*LOFbTP2SxXcFpM_qTsUSuw.png" />][jenkins]
+[<img align="left" alt="aws" width="60px" src="https://cdn2.downdetector.com/static/uploads/logo/aws-logo-icon-PNG-Transparent-Background_3.png" />][aws]
 
-[<img align="left" alt="HTML5" width="60px" src="https://www.dev7.com.br/images/tecnologias/gitlab.png" />][gitlab]
+[<img align="left" alt="terraform" width="60px" src="https://static-00.iconduck.com/assets.00/file-type-terraform-icon-455x512-csyun60o.png" />][terraform]
 
-[<img align="left" alt="HTML5" width="60px" src="https://www.ibm.com/blogs/cloud-computing/wp-content/uploads/2014/04/docker-logo-open-cloud.png" />][docker]
+[<img align="left" alt="ansible" width="60px" src="https://e7.pngegg.com/pngimages/443/653/png-clipart-ansible-g2-technology-group-red-hat-organization-computer-software-magic-circle-miscellaneous-angle-thumbnail.png" />][ansible]
 
-[<img align="left" alt="HTML5" width="100px" src="https://miro.medium.com/max/730/0*0xAFVp2oiGROzPiX" />][k8s]
+[<img align="left" alt="jenkins" width="60px" src="https://miro.medium.com/max/800/1*LOFbTP2SxXcFpM_qTsUSuw.png" />][jenkins]
 
-[<img align="left" alt="HTML5" width="60px" src="https://cdn2.downdetector.com/static/uploads/logo/aws-logo-icon-PNG-Transparent-Background_3.png" />][aws]
+[<img align="left" alt="gitlab" width="60px" src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" />][gitlab]
 
+[<img align="left" alt="elk" width="60px" src="https://t1.daumcdn.net/cfile/tistory/99DDB3495C5301B030" />][elk]
 
-
-[<img align="left" alt="HTML5" width="60px" src="https://t1.daumcdn.net/cfile/tistory/99DDB3495C5301B030" />][elk]
-
-[<img align="left" alt="HTML5" width="90px" src="https://miro.medium.com/max/1024/1*jkOCjQlkGZjbhWdvh7LfRA.png" />][java]
+[<img align="left" alt="java" width="90px" src="https://miro.medium.com/max/1024/1*jkOCjQlkGZjbhWdvh7LfRA.png" />][java]
 
 <br />
 <br />
