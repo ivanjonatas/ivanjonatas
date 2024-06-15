@@ -17,7 +17,7 @@
 <br />
 
 ### Linguagens e ferramentas:
-[<img align="left" alt="k8s" width="100px" src="https://miro.medium.com/max/730/0*0xAFVp2oiGROzPiX" />][k8s]
+[<img align="left" alt="k8s" width="100px" src="https://miro.medium.com/max/730/0*0xAFVp2oiGROzPiX" />]
 
 [<img align="left" alt="aws" width="60px" src="https://cdn2.downdetector.com/static/uploads/logo/aws-logo-icon-PNG-Transparent-Background_3.png" />]
 
