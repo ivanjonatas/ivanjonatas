@@ -3,10 +3,11 @@
 ## Admirador e praticante da cultura DevOps
 
 ### Sobre mim
-- :earth_americas: Lisbon - Portugal
-- 🌱 Sempre querendo aprender coisas novas 
-- :dart: Muito foco
-- :coffee: Muito café 🤣
+- 🌍 Lisboa, Portugal
+- 🌱 Disponível para aprender coisas novas
+- 🎸 Gosto de tocar violão
+- 🌊 Amo praia e atividades ao ar livre
+- ⚽ Gosto de futebol e sou torcedor do Flamengo <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_Flamengo_crest_1980-2018.png" alt="AWS Logo" width="25px" align="center">
 
 ### Onde me encontrar:
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -24,6 +25,7 @@
 [<img align="left" alt="java" width="90px" src="https://miro.medium.com/max/1024/1*jkOCjQlkGZjbhWdvh7LfRA.png" />][java]
 [<img align="left" alt="python" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" />][python]
 [<img align="left" alt="shell_script" width="60px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2KKbij-vaM7uwKs7w7uRV3OGczoTnecAhpg&s" />][shell_script]
+[<img align="left" alt="shell_script" width="40px" src="https://seeklogo.com/images/L/linux-logo-704D6BB91C-seeklogo.com.png" />][linux]
 
 <br />
 <br />
@@ -48,8 +50,26 @@
 - **Descrição:** Certificação em andamento que valida habilidades em Continuous Delivery com ArgoCD.
 - **Progresso:** Estudando atualmente.
 
+## Experiência Profissional e projetos
 
+#### <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStgskvcBH4_fXCmB6-NPrqdU56U2V_lP9WyZ72ywppVLXdNzusCyNoNNITxGslKvWnTgI&usqp=CAU" alt="AWS Logo" width="50px" align="center"> Dock Meios de Pagamentos, Dezembro 2018 - Julho 2021
 
+#### Principais Projetos:
+
+- Em Desenvolvimento
+
+#### <img src="https://seeklogo.com/images/L/livelo-logo-89F0D281F9-seeklogo.com.png" alt="AWS Logo" width="50px" align="center"> Livelo Brasil, Julho 2021 - Novembro 2022
+
+#### Principais Projetos:
+
+- Em Desenvolvimento
+#### <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1EOPhQnWcJZ93HDZWGIkAEFVHG-rosMy-qQ&s" alt="AWS Logo" width="50px" align="center"> Timestamp, Dezembro 2022 - O momento
+
+#### Principais Projetos:
+
+- Em Desenvolvimento
+
+  
 [youtube]: https://www.youtube.com/channel/UCfWNBu2eAbCkFP0QYpDIjmg
 [instagram]: https://www.instagram.com/ivan.jonatas/
 [linkedin]: https://www.linkedin.com/in/ivan-jonatas-b97a72119
@@ -65,3 +85,4 @@
 [python]: https://www.python.org/doc/
 [shell_script]: https://www.shellscript.sh/
 [aws]: https://aws.amazon.com/pt/
+[linux]: https://aws.amazon.com/pt/
