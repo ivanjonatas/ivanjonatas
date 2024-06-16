@@ -30,57 +30,25 @@
 
 ---
 
-## Certificação Obtida
-### <img src="https://cdn.svgporn.com/logos/kubernetes.svg" alt="CKA Logo" width="40px" align="center"> Certified Kubernetes Administrator (CKA)
+## Certificações
+
+
+### Obtida
+#### <img src="https://cdn.svgporn.com/logos/kubernetes.svg" alt="CKA Logo" width="40px" align="center"> Certified Kubernetes Administrator (CKA)
 - **Emitido por:** CNCF
 - **Descrição:** Certificação que valida habilidades em administração de clusters Kubernetes.
 - **Data de Conquista:** Maio de 2024
 
-## Certificações em Andamento
-### <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS Logo" width="40px" align="center"> AWS Certified Solutions Architect
+### Em andamento
+#### <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS Logo" width="40px" align="center"> AWS Certified Solutions Architect
 - **Descrição:** Certificação em andamento que valida habilidades em design de sistemas na AWS.
 - **Progresso:** Estudando atualmente.
 
-### <img src="https://www.opsmx.com/wp-content/uploads/2022/07/Argo-1-e1630327305635-1.png" alt="ArgoCD Logo" width="40px" align="center"> ArgoCD Certification
+#### <img src="https://www.opsmx.com/wp-content/uploads/2022/07/Argo-1-e1630327305635-1.png" alt="ArgoCD Logo" width="40px" align="center"> ArgoCD Certification
 - **Descrição:** Certificação em andamento que valida habilidades em Continuous Delivery com ArgoCD.
 - **Progresso:** Estudando atualmente.
 
 
-
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanjonatas)](https://github.com/ivanjonatas/github-readme-stats)
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ivanjonatas&show_icons=true&theme=vue-dark)](https://github.com/ivanjonatas/github-readme-stats)
-
-<!-- 
-  percentual por tecnologia
- -->
-
-<!-- 
-  CI/CD
-  gitlab CI
-  git
-  jenkins
-  docker
-  Kubernetes
-  java
-  maven  
- -->
-<!-- 
-<br />
-<br /> -->
-
----
-
-<!-- <details>
-  <summary>:zap: Github Stats</summary>
-
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ivanjonatas&show_icons=true&layout=defaul)](https://github.com/ivanjonatas/github-readme-stats)
-
-  <!-- <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" /> -->
-
-<!-- ---
-</details> --> 
 
 [youtube]: https://www.youtube.com/channel/UCfWNBu2eAbCkFP0QYpDIjmg
 [instagram]: https://www.instagram.com/ivan.jonatas/
