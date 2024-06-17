@@ -43,11 +43,11 @@
 
 ### Em andamento
 #### <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS Logo" width="40px" align="center"> AWS Certified Solutions Architect
-- **Descrição:** Certificação em andamento que valida habilidades em design de sistemas na AWS.
+- **Descrição:** Validar habilidades em design de sistemas na AWS.
 - **Progresso:** Estudando atualmente.
 
-#### <img src="https://www.opsmx.com/wp-content/uploads/2022/07/Argo-1-e1630327305635-1.png" alt="ArgoCD Logo" width="40px" align="center"> ArgoCD Certification
-- **Descrição:** Certificação em andamento que valida habilidades em Continuous Delivery com ArgoCD.
+#### <img src="https://images.credly.com/images/99289602-861e-4929-8277-773e63a2fa6f/linkedin_thumb_image.png" alt="ArgoCD Logo" width="60px" align="center"> Terraform Associate
+- **Descrição:** Validar habilidades em infraestrutura como código com Terraform.
 - **Progresso:** Estudando atualmente.
 
 ## Experiência Profissional e projetos
@@ -56,18 +56,30 @@
 
 #### Principais Projetos:
 
-- Em Desenvolvimento
+- GitLab Runner subindo máquinas spot na AWS para executar pipelines;
+- Ambiente de Desenvolvimento usando IaC para prover alguns recursos;
+- Projetos legados migrados para container Docker e gerenciados no Kubernetes;
+- Construção de pipelines para realização de CI/CD;
+- Testes automatizados executados em container Docker.
 
 #### <img src="https://seeklogo.com/images/L/livelo-logo-89F0D281F9-seeklogo.com.png" alt="AWS Logo" width="50px" align="center"> Livelo Brasil, Julho 2021 - Novembro 2022
 
 #### Principais Projetos:
 
-- Em Desenvolvimento
+- Administração de cluster Kubernetes;
+- Atualização e manutenção de cluster Kubernetes com Ansible e Python;
+- Provisionamento de infraestrutura na GCP com Terraform, incluindo módulos;
+- Terraform para provisionar recursos na AWS;
+- Automação de tarefas e rotinas com Python, Ansible e Shell Script.
+
+  
 #### <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1EOPhQnWcJZ93HDZWGIkAEFVHG-rosMy-qQ&s" alt="AWS Logo" width="50px" align="center"> Timestamp, Dezembro 2022 - O momento
 
 #### Principais Projetos:
 
-- Em Desenvolvimento
+- Implementação e administração de clusters Kubernetes;
+- Automação de processos utilizando Ansible, Python e Shell Script;
+- Provisionamento de infraestrutura na AWS com Terraform;
 
   
 [youtube]: https://www.youtube.com/channel/UCfWNBu2eAbCkFP0QYpDIjmg
